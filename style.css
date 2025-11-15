@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    font-family: Arial;
+    background-color: #a1ffb1;
+    color: rgb(95, 95, 95);
+
+}
+img{
+    border-radius: 10px;
+    transition: 0.2s;
+
+}
+button{
+    margin:2px;
+    padding: 25px 30px;
+    font-size: 15px;
+}
+#btnFreio {background-color: #ff0800;}
+#btnRe {background-color: #8a8a8a;}
+#btnSetaEsquerda {background-color: #ffee00;}
+#btnSetaDireita {background-color: #ff7300;}
+#btnDesligado {background-color: #00ff00;}
+#btnParar {background-color: #00ffd5;}
