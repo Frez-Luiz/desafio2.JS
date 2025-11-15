@@ -1,4 +1,4 @@
-const farol = document.getElementById("lanterna");
+const farol = document.getElementById("farol");
 
 function freio(){
     farol.src= "freio.png";
